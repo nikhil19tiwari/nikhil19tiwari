@@ -1,7 +1,9 @@
-![image](https://github.com/user-attachments/assets/1da37050-0d3a-4cd4-9a81-f125749ad0ed)
+![logo](https://github.com/nikhil19tiwari/nikhil19tiwari/blob/main/Screenshot%202025-01-26%20152339.png)
 <h1 align="center">Hi 👋, I'm Nikhil Tiwari</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-
+<br>
+<img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+<br>
 
 
 
