@@ -1,30 +1,139 @@
-![logo](https://github.com/nikhil19tiwari/nikhil19tiwari/blob/main/Nikhil%20Tiwari.png)
-<h1 align="center">Hi 👋, I'm Nikhil Tiwari</h1>
-<h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="coding" with = "400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil19tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil19tiwari" /> </p>
+<!DOCTYPE html>
+<html lang="en">
 
-- 🌱 I’m currently learning **Microservices,react**
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nikhil Tiwari - GitHub Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
 
-- 📝 I regularly solve DSA problem on GeeksForGeeks [https://www.geeksforgeeks.org/user/nikhil19wxqo/](https://www.geeksforgeeks.org/user/nikhil19wxqo/)
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 20px;
+        }
 
-- 💬 Ask me about **SpringBoot,core java,DSA**
+        h1, h3 {
+            text-align: center;
+        }
 
-- 📫 How to reach me **nikhil19tiwari@gmail.com**
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
 
-- 📄 Know about my Resume [https://github.com/nikhil19tiwari/Resume.git](https://github.com/nikhil19tiwari/Resume.git)
+        .profile-image {
+            display: block;
+            margin: 20px auto;
+            width: 150px;
+        }
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/nikhil-tiwari-261a64306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nikhil-tiwari-261a64306" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nikhil19wxqo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nikhil19wxqo" height="30" width="40" /></a>
-</p>
+        .bio {
+            text-align: center;
+            margin: 20px 0;
+        }
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+        .social-links img {
+            width: 30px;
+            margin: 0 10px;
+            vertical-align: middle;
+        }
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil19tiwari&show_icons=true&locale=en&layout=compact" alt="nikhil19tiwari" /></p>
+        .skills img {
+            width: 40px;
+            margin: 10px;
+        }
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhil19tiwari&show_icons=true&locale=en" alt="nikhil19tiwari" /></p>
+        .stats {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 30px;
+        }
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil19tiwari&" alt="nikhil19tiwari" /></p>
+        .stat-card {
+            background: white;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            overflow: hidden;
+            padding: 20px;
+            flex: 1;
+            max-width: 300px;
+            text-align: center;
+        }
+
+        .centered {
+            text-align: center;
+        }
+
+        @media (max-width: 768px) {
+            .stats {
+                flex-direction: column;
+                align-items: center;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <img src="https://github.com/nikhil19tiwari/nikhil19tiwari/blob/main/Nikhil%20Tiwari.png" alt="Nikhil Tiwari Logo" class="profile-image">
+        <h1>Hi 👋, I'm Nikhil Tiwari</h1>
+        <h3>A passionate Software Developer from India</h3>
+
+        <div class="bio">
+            <p>🌱 I’m currently learning <strong>Microservices, React</strong></p>
+            <p>📝 I regularly solve DSA problems on <a href="https://www.geeksforgeeks.org/user/nikhil19wxqo/" target="_blank">GeeksForGeeks</a></p>
+            <p>💬 Ask me about <strong>Spring Boot, Core Java, DSA</strong></p>
+            <p>📫 How to reach me: <a href="mailto:nikhil19tiwari@gmail.com">nikhil19tiwari@gmail.com</a></p>
+            <p>📄 Check out my Resume: <a href="https://github.com/nikhil19tiwari/Resume.git" target="_blank">Resume</a></p>
+        </div>
+
+        <h3 class="centered">Connect with me</h3>
+        <div class="centered social-links">
+            <a href="https://linkedin.com/in/nikhil-tiwari-261a64306" target="_blank">
+                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn">
+            </a>
+            <a href="https://auth.geeksforgeeks.org/user/nikhil19wxqo" target="_blank">
+                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks">
+            </a>
+        </div>
+
+        <h3 class="centered">Languages and Tools</h3>
+        <div class="centered skills">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React">
+            <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring">
+        </div>
+
+        <h3 class="centered">GitHub Stats</h3>
+        <div class="stats">
+            <div class="stat-card">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil19tiwari&show_icons=true&locale=en&layout=compact" alt="Top Languages">
+            </div>
+            <div class="stat-card">
+                <img src="https://github-readme-stats.vercel.app/api?username=nikhil19tiwari&show_icons=true&locale=en" alt="GitHub Stats">
+            </div>
+            <div class="stat-card">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil19tiwari" alt="GitHub Streak">
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
