@@ -1,5 +1,7 @@
-![logo](https://github.com/nikhil19tiwari/nikhil19tiwari/blob/main/NIKHIL%20TIWARI.png)
-![logo](https://github.com/nikhil19tiwari/nikhil19tiwari/blob/main/NIKHIL%20TIWARI.png](https://github.com/nikhil19tiwari/nikhil19tiwari/blob/main/1%20IRGHmiGsa16stedQvIaZfw.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nikhil19tiwari/nikhil19tiwari/main/NIKHIL%20TIWARI.png" alt="logo" width="400"/>
+  <img src="https://raw.githubusercontent.com/nikhil19tiwari/nikhil19tiwari/main/1%20IRGHmiGsa16stedQvIaZfw.gif" alt="gif" width="300"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Nikhil Tiwari</h1>
 <h3 align="center">A passionate Software developer from India</h3>
