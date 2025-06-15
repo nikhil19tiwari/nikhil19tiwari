@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/nikhil19tiwari/nikhil19tiwari/main/NIKHIL%20TIWARI.png" alt="banner" height="230" width="600"/>
-  <img src="https://raw.githubusercontent.com/nikhil19tiwari/nikhil19tiwari/main/1%20IRGHmiGsa16stedQvIaZfw.gif" alt="coder gif" height="230" width="160"/>
+  <img src="https://raw.githubusercontent.com/nikhil19tiwari/nikhil19tiwari/main/1%20IRGHmiGsa16stedQvIaZfw.gif" alt="coder gif" height="230" width="180"/>
 </p>
 
 
