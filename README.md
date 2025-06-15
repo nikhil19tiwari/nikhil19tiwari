@@ -1,4 +1,4 @@
-![logo](https://github.com/nikhil19tiwari/nikhil19tiwari/blob/main/Screenshot%202025-01-26%20152339.png)
+![logo](https://github.com/nikhil19tiwari/nikhil19tiwari/blob/main/NIKHIL%20TIWARI.png)
 <h1 align="center">Hi 👋, I'm Nikhil Tiwari</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <br>
