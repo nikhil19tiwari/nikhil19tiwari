@@ -19,8 +19,8 @@
 
 <!-- GFG & Views -->
 <p align="center">
-  <a href="https://www.geeksforgeeks.org/user/nikhil19wxqo/">
-    <img src="https://img.shields.io/badge/GeeksForGeeks-Data%20Structures%20%26%20Algo-green?logo=geeksforgeeks&logoColor=white" />
+  <a href="https://www.geeksforgeeks.org/user/nikhil19wxqo/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksForGeeks-Profile-green?style=flat&logo=geeksforgeeks&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=nikhil19tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil19tiwari" />
 </p>
@@ -33,8 +33,9 @@
   <a href="https://linkedin.com/in/nikhil-tiwari-261a64306" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://auth.geeksforgeeks.org/user/nikhil19wxqo" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/geeksforgeeks.png" height="30" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="30" />
   </a>
 </p>
 
