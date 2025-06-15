@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nikhil19tiwari/nikhil19tiwari/main/NIKHIL%20TIWARI.png" alt="logo" width="400"/>
-  <img src="https://raw.githubusercontent.com/nikhil19tiwari/nikhil19tiwari/main/1%20IRGHmiGsa16stedQvIaZfw.gif" alt="gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/nikhil19tiwari/nikhil19tiwari/main/NIKHIL%20TIWARI.png" alt="banner" style="height: auto; width: 65%;">
+  <img src="https://raw.githubusercontent.com/nikhil19tiwari/nikhil19tiwari/main/1%20IRGHmiGsa16stedQvIaZfw.gif" alt="coder gif" style="height: 200px; width: auto;">
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Nikhil Tiwari</h1>
 <h3 align="center">A passionate Software developer from India</h3>
