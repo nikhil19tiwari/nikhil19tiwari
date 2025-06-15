@@ -1,4 +1,6 @@
 ![logo](https://github.com/nikhil19tiwari/nikhil19tiwari/blob/main/NIKHIL%20TIWARI.png)
+![logo](https://github.com/nikhil19tiwari/nikhil19tiwari/blob/main/NIKHIL%20TIWARI.png](https://github.com/nikhil19tiwari/nikhil19tiwari/blob/main/1%20IRGHmiGsa16stedQvIaZfw.gif)
+
 <h1 align="center">Hi 👋, I'm Nikhil Tiwari</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <br>
