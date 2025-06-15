@@ -6,7 +6,7 @@
 
 <!-- Name & Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=42F5E9&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nikhil+Tiwari;Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+DSA+Lover;Passionate+Learner+%26+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=42F5E9&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nikhil+Tiwari;Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+DSA+Solver;Passionate+Learner+%26+Builder" alt="Typing SVG" />
 </h1>
 
 <!-- Bio Info -->
