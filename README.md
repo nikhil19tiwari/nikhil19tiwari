@@ -1,42 +1,60 @@
+<!-- Profile Banner + GIF -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/nikhil19tiwari/nikhil19tiwari/main/NIKHIL%20TIWARI.png" alt="banner" height="230" width="600"/>
   <img src="https://raw.githubusercontent.com/nikhil19tiwari/nikhil19tiwari/main/1%20IRGHmiGsa16stedQvIaZfw.gif" alt="coder gif" height="230" width="180"/>
 </p>
 
+<!-- Name & Title -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=42F5E9&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nikhil+Tiwari;Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+DSA+Lover;Passionate+Learner+%26+Builder" alt="Typing SVG" />
+</h1>
 
-
-<h1 align="center">Hi 👋, I'm Nikhil Tiwari</h1>
-<h3 align="center">A passionate Software developer from India</h3>
-<br>
-<img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
-<br>
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil19tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil19tiwari" /> </p>
-
-- 🌱 I’m currently learning **Microservices,react**
-
-- 📝 I regularly solve DSA problem on GeeksForGeeks [https://www.geeksforgeeks.org/user/nikhil19wxqo/](https://www.geeksforgeeks.org/user/nikhil19wxqo/)
-
-- 💬 Ask me about **SpringBoot,core java,DSA**
-
-- 📫 How to reach me **nikhil19tiwari@gmail.com**
-
-- 📄 Know about my Resume [https://github.com/nikhil19tiwari/Resume.git](https://github.com/nikhil19tiwari/Resume.git)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/nikhil-tiwari-261a64306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nikhil-tiwari-261a64306" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nikhil19wxqo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nikhil19wxqo" height="30" width="40" /></a>
+<!-- Bio Info -->
+<p align="center">
+  🌱 I’m currently learning <b>Microservices</b> and <b>React</b><br>
+  💬 Ask me about <b>Spring Boot, Core Java, DSA</b><br>
+  📫 Reach me: <b>nikhil19tiwari@gmail.com</b><br>
+  📄 <a href="https://github.com/nikhil19tiwari/Resume.git" target="_blank">View My Resume</a><br>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<!-- GFG & Views -->
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/user/nikhil19wxqo/">
+    <img src="https://img.shields.io/badge/GeeksForGeeks-Data%20Structures%20%26%20Algo-green?logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=nikhil19tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil19tiwari" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil19tiwari&show_icons=true&locale=en&layout=compact" alt="nikhil19tiwari" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhil19tiwari&show_icons=true&locale=en" alt="nikhil19tiwari" /></p>
+<!-- Socials -->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/nikhil-tiwari-261a64306" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/nikhil19wxqo" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/geeksforgeeks.png" height="30" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil19tiwari&" alt="nikhil19tiwari" /></p>
+---
+
+<!-- Tech Stack -->
+<h3 align="center">Languages and Tools I Use:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,cpp" />
+</p>
+
+---
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhil19tiwari&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil19tiwari&layout=compact&theme=radical" alt="Top Languages" height="170"/>
+</p>
+
+<!-- Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhil19tiwari&theme=radical&hide_border=false" />
+</p>
