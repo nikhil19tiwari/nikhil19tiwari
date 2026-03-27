@@ -11,10 +11,10 @@
 
 <!-- Intro -->
 <p align="center">
-  🌱 Currently learning <b>Microservices</b> & <b>React</b><br>
-  💬 Ask me about <b>Spring Boot, Core Java, DSA</b><br>
-  📫 Reach me at: <b>nikhil19tiwari@gmail.com</b><br>
-  📄 <a href="https://github.com/nikhil19tiwari/Resume.git" target="_blank">View My Resume</a>
+  Currently learning <b>Microservices</b> & <b>React</b><br>
+   Ask me about <b>Spring Boot, Core Java, DSA</b><br>
+  Reach me at: <b>nikhil19tiwari@gmail.com</b><br>
+   <a href="https://github.com/nikhil19tiwari/Resume.git" target="_blank">View My Resume</a>
 </p>
 
 <!-- GFG + Profile Views -->
