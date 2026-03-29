@@ -29,7 +29,7 @@
 ---
 
 <!-- Connect with Me -->
-<h3 align="center">🌐 Connect with me</h3>
+<h3 align="center"> Connect with me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/nikhil-tiwari-261a64306" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
