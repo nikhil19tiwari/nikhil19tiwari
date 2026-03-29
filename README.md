@@ -43,7 +43,7 @@
 ---
 
 <!-- Skills -->
-<h3 align="center">🛠️ Languages & Tools</h3>
+<h3 align="center"> Languages & Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,cpp" />
 </p>
